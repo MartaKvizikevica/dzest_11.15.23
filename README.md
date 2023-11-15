@@ -1,0 +1,1 @@
+#Es daļēji izprotu GIT un GITHUB lietojumu.
